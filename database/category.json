@@ -1,0 +1,50 @@
+[
+  {
+    "id": "ff53eaa7-4da5-4f14-85f6-764c0f09c824",
+    "name": "Ta'lim",
+    "photo": "2765ce92-b508-4a99-addd-0591765e9e8d.jpg",
+    "type": "chiqim",
+    "userId": "200c2b0d-a23c-4983-995d-5002031e4904",
+    "time": "25.05.2024, 20:00:43"
+  },
+  {
+    "id": "ed127235-bafc-4600-a54d-51ab4ec21d45",
+    "name": "Meditsina",
+    "photo": "9624bd1d-163e-4287-aada-cfeb2041b341.jpg",
+    "type": "chiqim",
+    "userId": "200c2b0d-a23c-4983-995d-5002031e4904",
+    "time": "25.05.2024, 20:00:52"
+  },
+  {
+    "id": "70a87369-3086-4aa9-82b3-75d9fd7748ca",
+    "name": "Ish haqqi",
+    "photo": "774f8430-04dc-461f-a743-201e2857d467.jpg",
+    "type": "kirim",
+    "userId": "200c2b0d-a23c-4983-995d-5002031e4904",
+    "time": "25.05.2024, 20:01:01"
+  },
+  {
+    "id": "d0369f70-f297-4cab-8aac-ba641779469a",
+    "name": "Ish haqqi",
+    "photo": "2c11a4df-ab99-47e9-aad7-7857391daecb.jpg",
+    "type": "kirim",
+    "userId": "2617a275-2cf2-422b-9d22-0aa0c947b238",
+    "time": "25.05.2024, 20:09:33"
+  },
+  {
+    "id": "f3612dcb-9579-4a6d-997b-6a7e4c0db82e",
+    "name": "Meditsina",
+    "photo": "48d59e2d-2200-4fa9-a051-434f3928e27b.jpg",
+    "type": "chiqim",
+    "userId": "2617a275-2cf2-422b-9d22-0aa0c947b238",
+    "time": "25.05.2024, 20:07:42"
+  },
+  {
+    "id": "5c3807c2-42e7-4149-8e2d-4fddf52c6703",
+    "name": "Ta'lim",
+    "photo": "5e42aaa3-3aab-40f5-9c30-253de9cb94c4.jpg",
+    "type": "chiqim",
+    "userId": "2617a275-2cf2-422b-9d22-0aa0c947b238",
+    "time": "25.05.2024, 20:09:57"
+  }
+]

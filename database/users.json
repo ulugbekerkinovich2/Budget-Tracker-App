@@ -1,0 +1,32 @@
+[
+  {
+    "id": "2617a275-2cf2-422b-9d22-0aa0c947b238",
+    "fullname": "Erkinov Ulug'bek",
+    "password": "$2b$10$XKxRRq2U9g1nBVoBHHs.hO2dFth91jcD0jFH58dgKGN3KaSHX8kEe",
+    "photo": "66c5286b-f813-46de-a7ed-891038237f05.jpg",
+    "phone": "+998998359015",
+    "balance": 25000,
+    "is_admin": true,
+    "time": "25.05.2024, 19:58:40"
+  },
+  {
+    "id": "705554cb-7fd3-4644-b30e-3d6f3bf8d000",
+    "fullname": "Erkinov Alisher",
+    "password": "$2b$10$/Gn02hFCCwO/zHw0qif2Q./dazi6g7pi1aqWJBF/0L.Jr87kp8xX.",
+    "photo": "d55ee354-6bed-4588-a375-d59dcf58103c.jpg",
+    "phone": "+998998359016",
+    "balance": 0,
+    "is_admin": false,
+    "time": "25.05.2024, 19:59:05"
+  },
+  {
+    "id": "581f3cfe-022a-488d-994b-5db82e472df7",
+    "fullname": "Erkinov Muhammad",
+    "password": "$2b$10$cUtOx31QDvRTeMbm/RsjTucDsoX40E3dhQskclZiE2UBFXeHCvuUq",
+    "photo": "58de822f-b982-430d-96f7-3f6350c7215e.jpg",
+    "phone": "+998998359017",
+    "balance": 0,
+    "is_admin": false,
+    "time": "25.05.2024, 19:59:16"
+  }
+]
